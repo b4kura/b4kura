@@ -1,5 +1,3 @@
-## hi, my name is bianca and i program stuff! 
-</br>
 
  <div>
   <a href="https://github.com/b4kura">
